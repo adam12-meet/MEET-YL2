@@ -1,0 +1,5 @@
+I love the design of your app - it is very clear and easy to use. I am so glad that you chose to do something a little bit more complicated than the average app, because I am sure that you got a lot of satisfaction from figuring out how to accomplish the thing you wanted to accomplish! 
+
+I like the interface I first open it, and the GPS integration is great! The only thing that didn’t seem to work for me was the map to show me back to the place I saved, but I think this is because when you saved the GPS coordinates, for some reason one of the coordinates is 800 when it should be 31. I’m not sure what exactly is going on since I don’t have a screenshot of your blocks editor, but I know that the URI is working, since I do get redirected to Google Maps. 
+
+This is a fantastic idea for an app, and this is a great mockup version! If you want to take 30 minutes to fix the last bug, I think you’ll be really proud of your work here. If you ask me, I think there is definitely potential for this to be a bigger app than just a small project. Great work.
